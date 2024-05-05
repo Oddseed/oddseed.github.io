@@ -1,0 +1,14 @@
+{
+  "name": "content-wind-template",
+  "private": true,
+  "scripts": {
+    "dev": "nuxi dev --host 192.168.1.66 -p 3000",
+    "build": "nuxi build",
+    "generate": "nuxi generate",
+    "preview": "nuxi preview"
+  },
+  "devDependencies": {
+    "content-wind": "latest",
+    "nuxt": "latest"
+  }
+}
